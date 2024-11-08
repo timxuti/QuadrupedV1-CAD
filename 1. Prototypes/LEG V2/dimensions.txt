@@ -1,0 +1,5 @@
+﻿"m3Thru"=3.2
+"m4Thru"=4.3
+"thighLength"=185
+"legLength"=200
+"shoulder5mm"=5.1
