@@ -26,5 +26,5 @@ FTST: Fit test files
 5: Wiring, piping, and tubing  
 6: Weldments  
 7: Solidworks FEA Simulation Files  
-8: ------  
+8: Solidworks VISUALIZE files
 9: Manufacturing files (3MF, STL, DXF, GCODE)  
