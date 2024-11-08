@@ -1,6 +1,6 @@
 # QuadrupedV1-CAD
 CAD Repo for version 1 of my quadruped design  
-![](https://camo.githubusercontent.com/4e18cf9e868800e5d45909f6e0b3d26a0cf1d6e8d6266fb9230b8f7b6ce6e431/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313031343239393830353238353130353639362f313330333236373532323239363032353132382f494d475f303738352e6a70673f65783d36373266313637362669733d363732646334663626686d3d6135333634326264633939373432353061306535373761643937663039386565353638623930633661353165386139303866313039346665633839316363626326)
+![](https://github.com/timxuti/QuadrupedV1-CAD/blob/main/0.%20Project%20Documents/1.%20Images/Quadruped%20V1.jpg?raw=true)
 
 ## 1: Description
 This repo does not contain any code or electrical schematics for the robot. There will only be SW, STEP, and 3MF files included. This is also a rough design for a rough quadruped design with the sole objective of standing up and walking. Further major developments will be in a different repo.
