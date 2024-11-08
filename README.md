@@ -4,7 +4,7 @@ CAD Repo for version 1 of my quadruped design
 <img src="https://github.com/timxuti/QuadrupedV1-CAD/blob/main/0.%20Project%20Documents/1.%20Images/Quadruped%20V1.jpg?raw=true" width="700"/>
 
 ## 1: Description
-This repo does not contain any code or electrical schematics for the robot. There will only be SW, STEP, and 3MF files included. This is also a rough design for a rough quadruped design with the sole objective of standing up and walking. Further major developments will be in a different repo.
+This repo does not contain any code or electrical schematics for the robot. There will only be SW, STEP, manufacturing, and image files included. This is also a rough design for a rough quadruped design with the sole objective of standing up and walking. Further major developments will be in a different repo.
 
 ## 2: Subcomponents and File Naming
 Custom parts should obey the XXXX YZZ - NAME file number convention:  
@@ -28,5 +28,5 @@ FTST: Fit test files
 5: Wiring, piping, and tubing  
 6: Weldments  
 7: Solidworks FEA Simulation Files  
-8: Solidworks VISUALIZE files
+8: Solidworks VISUALIZE files  
 9: Manufacturing files (3MF, STL, DXF, GCODE)  
