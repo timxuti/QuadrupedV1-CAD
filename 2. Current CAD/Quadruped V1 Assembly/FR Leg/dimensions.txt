@@ -1,0 +1,2 @@
+﻿"thighLength"=185
+"legLength"=200

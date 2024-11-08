@@ -1,0 +1,5 @@
+﻿"length" = 215mm
+"width" = 220mm
+"height" = 100mm
+"skin_th" = 8mm
+"shelf_height" = 10mm
