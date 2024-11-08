@@ -1,5 +1,6 @@
 # QuadrupedV1-CAD
 CAD Repo for version 1 of my quadruped design  
+
 <img src="https://github.com/timxuti/QuadrupedV1-CAD/blob/main/0.%20Project%20Documents/1.%20Images/Quadruped%20V1.jpg?raw=true" width="700"/>
 
 ## 1: Description
