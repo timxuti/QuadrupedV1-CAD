@@ -3,6 +3,9 @@ CAD Repo for version 1 of my quadruped design
 
 <img src="https://github.com/timxuti/QuadrupedV1-CAD/blob/main/0.%20Project%20Documents/1.%20Images/Quadruped%20V1.jpg?raw=true" width="700"/>
 
+## 0: Quadruped
+This is a prototype using Xiaomi's Cybergear QDDs. I am in the process of developing my own QDD and FOC ESC, as well as improving on the mechanical and electronic layout of the quadruped.
+
 ## 1: Description
 This repo does not contain any code or electrical schematics for the robot. There will only be SW, STEP, manufacturing, and image files included. This is also a rough design for a rough quadruped design with the sole objective of standing up and walking. Further major developments will be in a different repo.
 
